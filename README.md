@@ -43,8 +43,8 @@ BETA-BANK-CHURN-PREDICTION/
 │   └── Churn.csv
 ├── notebook/
 │   └── notebook.ipynb
-├── environment.yml
 ├── .gitignore
+├── environment.yml
 └── README.md
 ```
 
