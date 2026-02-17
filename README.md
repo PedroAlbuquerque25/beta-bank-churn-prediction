@@ -61,18 +61,19 @@ BETA-BANK-CHURN-PREDICTION/
 🚀 How to Run
 Clone the repository.
 
-- **Create the environment: conda env create -f environment.yml.
+* **Create the environment: conda env create -f environment.yml.
 
-- **Activate it: conda activate beta-bank-env.
+* **Activate it: conda activate beta-bank-env.
 
-- **Run the notebook in notebook/notebook.ipynb.
+* **Run the notebook in notebook/notebook.ipynb.
 
 ---
 
 👤 Autor
-Pedro Albuquerque Data Science | Data Analyst | Business Intelligence
+Pedro Albuquerque 
+Data Science | Data Analyst | Business Intelligence
 
 ---
 
-## 🤝 Contato
+## 🤝 Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phaa/)
